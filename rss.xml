@@ -6,5 +6,17 @@
   <description>The Tube</description>
 
 
+
+  <item>
+    <title>er006 惊天魔盗团2</title>
+    <description>er006 惊天魔盗团2</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/er006 惊天魔盗团2.mp3" type="audio/mpeg" />
+  </item>
+
+  <item>
+    <title>er005 钢刀</title>
+    <description>er005 钢刀</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/er005 钢刀.mp3" type="audio/mpeg" />
+  </item>
 </channel>
 </rss>

@@ -1302,5 +1302,29 @@
     <description>【直播】2024台湾总统候选人辩论会｜自由亚洲电台｜台灣總統候選人電視辯論會</description>
     <enclosure url="http://github.com/malfoy444/overcast/raw/main/【直播】2024台湾总统候选人辩论会｜自由亚洲电台｜台灣總統候選人電視辯論會.mp3" type="audio/mpeg" />
   </item>
+
+  <item>
+    <title>2024台湾总统候选人辩论会_1</title>
+    <description>2024台湾总统候选人辩论会_1</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/2024台湾总统候选人辩论会_1.mp3" type="audio/mpeg" />
+  </item>
+
+  <item>
+    <title>2024台湾总统候选人辩论会_2</title>
+    <description>2024台湾总统候选人辩论会_2</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/2024台湾总统候选人辩论会_2.mp3" type="audio/mpeg" />
+  </item>
+
+  <item>
+    <title>2024台湾总统候选人辩论会_3</title>
+    <description>2024台湾总统候选人辩论会_3</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/2024台湾总统候选人辩论会_3.mp3" type="audio/mpeg" />
+  </item>
+
+  <item>
+    <title>2024台湾总统候选人辩论会_4</title>
+    <description>2024台湾总统候选人辩论会_4</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/2024台湾总统候选人辩论会_4.mp3" type="audio/mpeg" />
+  </item>
 </channel>
 </rss>

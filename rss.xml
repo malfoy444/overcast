@@ -1296,5 +1296,11 @@
     <description>我要回去当程序员了</description>
     <enclosure url="http://github.com/malfoy444/overcast/raw/main/我要回去当程序员了.mp3" type="audio/mpeg" />
   </item>
+
+  <item>
+    <title>【直播】2024台湾总统候选人辩论会｜自由亚洲电台｜台灣總統候選人電視辯論會</title>
+    <description>【直播】2024台湾总统候选人辩论会｜自由亚洲电台｜台灣總統候選人電視辯論會</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/【直播】2024台湾总统候选人辩论会｜自由亚洲电台｜台灣總統候選人電視辯論會.mp3" type="audio/mpeg" />
+  </item>
 </channel>
 </rss>

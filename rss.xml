@@ -4356,5 +4356,23 @@
     <description>戛纳外语片</description>
     <enclosure url="http://github.com/malfoy444/overcast/raw/main/戛纳外语片.mp3" type="audio/mpeg" />
   </item>
+
+  <item>
+    <title>未完成的电影</title>
+    <description>未完成的电影</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/未完成的电影.mp3" type="audio/mpeg" />
+  </item>
+
+  <item>
+    <title>普京访问中国，世界怎么看？</title>
+    <description>普京访问中国，世界怎么看？</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/普京访问中国，世界怎么看？.mp3" type="audio/mpeg" />
+  </item>
+
+  <item>
+    <title>習近平為這場豪賭付出什麼代價？湖南衛視的本事：唱歌比賽都能製造“亡國感”，收獲潑天愛國主義流量。</title>
+    <description>習近平為這場豪賭付出什麼代價？湖南衛視的本事：唱歌比賽都能製造“亡國感”，收獲潑天愛國主義流量。</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/習近平為這場豪賭付出什麼代價？湖南衛視的本事：唱歌比賽都能製造“亡國感”，收獲潑天愛國主義流量。.mp3" type="audio/mpeg" />
+  </item>
 </channel>
 </rss>

@@ -5,5 +5,19 @@
   <language>en-us</language>
   <description>The Tube</description>
 
+
+  <item>
+    <title>科普：一切关于 OLED 争议话题，背后原因竟然是它</title>
+    <description>科普：一切关于 OLED 争议话题，背后原因竟然是它</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/科普：一切关于 OLED 争议话题，背后原因竟然是它.mp3" type="audio/mpeg" />
+    <pubDate>Mon, 02 Dec 2024 16:35:31 +0100</pubDate>
+  </item>
+
+  <item>
+    <title>香港民主派47人案「生還者」李予信：這三年是深刻認識自由的過程－ BBC News 中文</title>
+    <description>香港民主派47人案「生還者」李予信：這三年是深刻認識自由的過程－ BBC News 中文</description>
+    <enclosure url="http://github.com/malfoy444/overcast/raw/main/香港民主派47人案「生還者」李予信：這三年是深刻認識自由的過程－ BBC News 中文.mp3" type="audio/mpeg" />
+    <pubDate>Mon, 02 Dec 2024 16:35:35 +0100</pubDate>
+  </item>
 </channel>
 </rss>
